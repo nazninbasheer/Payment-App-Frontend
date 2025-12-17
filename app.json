@@ -20,10 +20,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "usesCleartextTraffic": true,
+      "package": "com.nazninb.paymentapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "60707941-9733-4e35-9262-17b99b84144a",
+         "EXPO_PUBLIC_API_URL": "http://16.16.56.4:3000"
+      }
+    },
+    "owner": "nazninb"
   }
 }
