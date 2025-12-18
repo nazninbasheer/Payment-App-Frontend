@@ -29,9 +29,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "60707941-9733-4e35-9262-17b99b84144a",
-         "EXPO_PUBLIC_API_URL": "http://16.16.56.4:3000"
-      }
+        "projectId": "60707941-9733-4e35-9262-17b99b84144a"
+      },
+      "EXPO_PUBLIC_API_URL": "http://16.16.56.4:3000"
     },
     "owner": "nazninb"
   }
